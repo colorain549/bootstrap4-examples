@@ -4,4 +4,5 @@
 ## framework
 ## navbars
     > navbar-static
-    > 
+    > navbar-fixed
+    > navbar-bottom

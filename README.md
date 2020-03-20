@@ -3,6 +3,7 @@
 ## experiments
 ## framework
 ## navbars
-    > navbar-static
-    > navbar-fixed
     > navbar-bottom
+    > navbar-fixed
+    > navbar-static
+    > navbars
